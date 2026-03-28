@@ -1,6 +1,6 @@
 # 🧠 NeuroRAG-X
 
-## 🚀 Overview
+## Overview
 
 NeuroRAG-X is a fully open-source, production-grade AI platform that combines advanced Retrieval-Augmented Generation (RAG) with continuous finetuning to build self-improving, domain-aware language systems.
 
@@ -21,7 +21,7 @@ It is designed to ingest, process, retrieve, and learn from large-scale enterpri
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### High-Level Components
 
@@ -73,11 +73,10 @@ It is designed to ingest, process, retrieve, and learn from large-scale enterpri
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-ne
-neurorag-x/
+NeuroRAG-X/
 │
 ├── services/
 │   ├── api/
@@ -114,7 +113,7 @@ neurorag-x/
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. Data ingestion
 2. Chunking & embedding
@@ -129,7 +128,7 @@ neurorag-x/
 
 ---
 
-# 📜 Architecture Decision Records (ADR)
+# Architecture Decision Records (ADR)
 
 ## ADR-001: Hybrid Retrieval over Pure Vector Search
 
@@ -179,7 +178,7 @@ neurorag-x/
 
 ---
 
-# 📈 Scalability Plan
+# Scalability Plan
 
 ## Phase 1: Single Node (Current)
 
@@ -210,7 +209,7 @@ neurorag-x/
 
 ---
 
-# 💰 Cost Optimization Strategy
+# Cost Optimization Strategy
 
 ## 1. Model Optimization
 
@@ -244,7 +243,7 @@ neurorag-x/
 
 ---
 
-# 🔐 Security Considerations
+# Security Considerations
 
 * JWT authentication
 * Role-based access control
@@ -253,7 +252,7 @@ neurorag-x/
 
 ---
 
-# 🧪 Evaluation
+# Evaluation
 
 * Retrieval accuracy (Recall@K)
 * Answer quality (LLM evaluation)
@@ -261,7 +260,7 @@ neurorag-x/
 
 ---
 
-# 🛠️ Setup Instructions
+# Setup Instructions
 
 ```bash
 git clone https://github.com/yourusername/neurorag-x.git
@@ -271,7 +270,7 @@ docker-compose up --build
 
 ---
 
-# 📌 Roadmap
+# Roadmap
 
 * [ ] Basic RAG
 * [ ] Hybrid retrieval
@@ -282,12 +281,12 @@ docker-compose up --build
 
 ---
 
-# 🤝 Contribution
+# Contribution
 
 Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-# 📄 License
+# License
 
 MIT License

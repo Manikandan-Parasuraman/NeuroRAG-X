@@ -1,5 +1,11 @@
 # 🧠 NeuroRAG-X
 
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Manikandan-Parasuraman/NeuroRAG-X/actions)
+[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
+[![Docs](https://img.shields.io/badge/docs-production-blue)](https://github.com/Manikandan-Parasuraman/NeuroRAG-X#readme)
+[![Issues](https://img.shields.io/badge/issues-open-red)](https://github.com/Manikandan-Parasuraman/NeuroRAG-X/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/Manikandan-Parasuraman/NeuroRAG-X/pulls)
+
 ## Overview
 
 NeuroRAG-X is a fully open-source, production-grade AI platform that combines advanced Retrieval-Augmented Generation (RAG) with continuous finetuning to build self-improving, domain-aware language systems.
